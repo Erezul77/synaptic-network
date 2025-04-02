@@ -1,3 +1,3 @@
 # Architecture.Md
 
-Content for Architecture.md.
+Updated content for Architecture.md.

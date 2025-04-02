@@ -1,3 +1,3 @@
 # Constitution.Md
 
-Content for Constitution.md.
+Updated content for Constitution.md.

@@ -1,3 +1,3 @@
 # Business Model.Md
 
-Content for business_model.md.
+Updated content for business_model.md.

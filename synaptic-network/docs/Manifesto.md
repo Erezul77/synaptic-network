@@ -1,3 +1,3 @@
 # Manifesto.Md
 
-Content for Manifesto.md.
+Updated content for Manifesto.md.

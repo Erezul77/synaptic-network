@@ -1,3 +1,3 @@
 # Contributing.Md
 
-Content for CONTRIBUTING.md.
+Updated content for CONTRIBUTING.md.
