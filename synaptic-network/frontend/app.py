@@ -1,3 +1,3 @@
 # App
 
-This is the placeholder content for app.py.
+Updated content for app.py.

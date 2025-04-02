@@ -1,3 +1,3 @@
 # Contributing.Md
 
-This is the placeholder content for CONTRIBUTING.md.
+Updated content for CONTRIBUTING.md.
