@@ -1,3 +1,3 @@
 # Encrypted Sync
 
-Updated content for encrypted_sync.py.
+This is the placeholder content for encrypted_sync.py.

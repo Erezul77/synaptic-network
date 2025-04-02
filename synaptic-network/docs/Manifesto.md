@@ -1,3 +1,3 @@
 # Manifesto.Md
 
-Updated content for Manifesto.md.
+This is the placeholder content for Manifesto.md.

@@ -1,3 +1,3 @@
 # Pitch.Md
 
-Updated content for Pitch.md.
+This is the placeholder content for Pitch.md.

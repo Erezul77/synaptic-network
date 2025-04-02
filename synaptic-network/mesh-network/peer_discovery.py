@@ -1,3 +1,3 @@
 # Peer Discovery
 
-Updated content for peer_discovery.py.
+This is the placeholder content for peer_discovery.py.

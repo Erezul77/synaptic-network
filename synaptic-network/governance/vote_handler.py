@@ -1,3 +1,3 @@
 # Vote Handler
 
-Updated content for vote_handler.py.
+This is the placeholder content for vote_handler.py.

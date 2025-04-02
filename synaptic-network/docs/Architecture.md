@@ -1,3 +1,3 @@
 # Architecture.Md
 
-Updated content for Architecture.md.
+This is the placeholder content for Architecture.md.

@@ -1,3 +1,3 @@
 # Swarm Consensus
 
-Updated content for swarm_consensus.py.
+This is the placeholder content for swarm_consensus.py.

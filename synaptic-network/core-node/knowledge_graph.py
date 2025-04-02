@@ -1,3 +1,3 @@
 # Knowledge Graph
 
-Updated content for knowledge_graph.py.
+This is the placeholder content for knowledge_graph.py.

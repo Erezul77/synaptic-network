@@ -1,3 +1,3 @@
 # Business Model.Md
 
-Updated content for business_model.md.
+This is the placeholder content for business_model.md.

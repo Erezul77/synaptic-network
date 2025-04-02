@@ -1,3 +1,3 @@
 # Readme.Md
 
-Updated content for README.md.
+This is the placeholder content for README.md.
