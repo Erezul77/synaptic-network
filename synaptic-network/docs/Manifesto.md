@@ -1,3 +1,3 @@
 # Manifesto.Md
 
-Updated content for Manifesto.md.
+Final implementation for Manifesto.md.

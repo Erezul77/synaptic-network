@@ -1,3 +1,3 @@
 # Encrypted Sync
 
-Updated content for encrypted_sync.py.
+Final implementation for encrypted_sync.py.

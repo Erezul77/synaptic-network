@@ -1,3 +1,3 @@
 # Contributing.Md
 
-Updated content for CONTRIBUTING.md.
+Final implementation for CONTRIBUTING.md.

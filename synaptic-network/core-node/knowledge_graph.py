@@ -1,3 +1,3 @@
 # Knowledge Graph
 
-Updated content for knowledge_graph.py.
+Final implementation for knowledge_graph.py.

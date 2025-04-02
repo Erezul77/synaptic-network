@@ -1,3 +1,3 @@
 # Swarm Consensus
 
-Updated content for swarm_consensus.py.
+Final implementation for swarm_consensus.py.

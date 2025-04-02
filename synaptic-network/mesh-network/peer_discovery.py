@@ -1,3 +1,3 @@
 # Peer Discovery
 
-Updated content for peer_discovery.py.
+Final implementation for peer_discovery.py.

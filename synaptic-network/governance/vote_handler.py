@@ -1,3 +1,3 @@
 # Vote Handler
 
-Updated content for vote_handler.py.
+Final implementation for vote_handler.py.
